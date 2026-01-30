@@ -10,10 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Email: belaw@vt.edu
+
 linkedin: https://www.linkedin.com/in/bela-williams/
+
 github: https://github.com/belaw888
 
 EDUCATION
+
 Virginia Polytechnic Institute and State University (Virginia Tech) Blacksburg, VA
 College of Engineering Expected Graduation: May 2028
 B.S. in Computer Engineering
@@ -24,8 +27,10 @@ Blacksburg High School Blacksburg, VA
 
 
 EXTRACURRICULARS
+
 FIRST Robotics Team 401 (Blacksburg High School) Christiansburg, VA
 Technical Director August 2019 – May 2023
+
 • Committed team member for four years of high school, held a leadership position for the last two years (Junior
 year: Electrical Lead, Senior year: Technical Director)
 • Managed a team of 36, oversaw the design and fabrication process of the competition robot, and coordinated
@@ -40,8 +45,10 @@ tournament in Houston my junior and senior years.
 
 
 WORK EXPERIENCE
+
 Wing Aviation Christiansburg, VA
 Ground Support Operator (Drone Delivery) June 2023 – April 2024
+
 • Full time position in a safety-critical role
 • Ensured aircraft mission readiness through pre-flight safety inspections and airspace monitoring
 • Coordinated with the business/flight operations teams
@@ -49,6 +56,7 @@ Ground Support Operator (Drone Delivery) June 2023 – April 2024
 
 Appalachian Conservation Corps Harrisonburg, VA
 Corpsmember June 2024 – July 2024
+
 • Constructed hiking, biking, and ADA accessible trails in rural WV and VA
 • Utilized a griphoist and pulley system to move boulders, and other tools such as sledgehammers, picks, chisels,
 shovels, a gravel tamper, and circular saw
@@ -56,6 +64,7 @@ shovels, a gravel tamper, and circular saw
 
 Virginia Tech Asian American Pacific Islander & Native American Serving Institution Initiative Blacksburg, VA
 Peer Wellness Mentor August 2025 – December 2025
+
 • Facilitate monthly support groups addressing student needs and plan/lead weekly wellness events (e.g. craft
 workshops) to promote relaxation and community
 • Represent the AANAPISI Initiative and its partners through tabling, social media, and classroom visits
