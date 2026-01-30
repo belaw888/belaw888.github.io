@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Email: belaw@vt.edu
+linkedin: https://www.linkedin.com/in/bela-williams/
+github: https://github.com/belaw888
+
 EDUCATION
 Virginia Polytechnic Institute and State University (Virginia Tech) Blacksburg, VA
 College of Engineering Expected Graduation: May 2028
